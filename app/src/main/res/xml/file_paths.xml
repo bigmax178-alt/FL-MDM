@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  This file defines the paths that are accessible through the FileProvider.
+  It grants temporary access to the "Download" directory within the app's
+  private external storage area, where the update APK will be saved.
+-->
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-files-path
+        name="my_downloads"
+        path="Download/" />
+</paths>

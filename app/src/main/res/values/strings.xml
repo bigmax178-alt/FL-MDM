@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name" translatable="false">FirebaseLabelApp</string>
+    <string name="hint_ip_address">IP Address</string>
+    <string name="hint_port">Port</string>
+    <string name="button_test_connection">Test Connection</string>
+    <string name="status_not_tested">Status: Not tested</string>
+    <string name="status_enter_ip_port">Status: Please enter IP/Port</string>
+    <string name="status_testing">Status: Testing...</string>
+    <string name="status_connection_successful">Status: ✅ Connection successful!</string>
+    <string name="status_connection_failed">Status: ❌ Connection failed</string>
+    <string name="dialog_title_wifi_printer">Wi-Fi Printer</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="toast_ip_port_empty">IP Address and Port cannot be empty.</string>
+    <string name="toast_invalid_port">Invalid Port Number.</string>
+    <string name="toast_selected_wifi_printer">Selected: Wi-Fi Printer at %1$s:%2$d</string>
+    <string name="none_selected">None Selected</string>
+    <string name="bluetooth_printer_permissions_missing">Bluetooth Printer (%1$s) (Permissions
+        Missing)
+    </string>
+    <string name="unknown_bluetooth_printer">Unknown Bluetooth (%1$s)</string>
+    <string name="unknown_usb_printer">Unknown USB Printer (%1$s)</string>
+    <string name="wifi_printer_name">WiFi Printer (%1$s:%2$d)</string>
+    <string name="bluetooth_permissions_not_granted">Bluetooth: Permissions Not Granted</string>
+    <string name="toast_no_printers_found">No printers found.</string>
+    <string name="dialog_title_select_printer">Select Printer</string>
+    <string name="add_wifi_printer">Add Wi-Fi Printer...</string>
+    <string name="toast_permissions_missing">Some permissions are missing, error: %1$s</string>
+    <string name="toast_bluetooth_permissions_not_granted">Bluetooth permissions not granted
+    </string>
+    <string name="toast_duration_greater_than_zero">Please select a duration greater than 0</string>
+    <string name="toast_usb_permission_not_granted">USB permission not granted. Please grant
+        permission and try again.
+    </string>
+    <string name="toast_bluetooth_printer_not_selected">Bluetooth printer not selected</string>
+    <string name="toast_selected_bluetooth_printer_not_found">Selected Bluetooth printer not found
+    </string>
+    <string name="toast_usb_printer_not_selected">USB printer not selected</string>
+    <string name="toast_usb_printer_not_found">USB printer not found</string>
+    <string name="toast_wifi_printer_not_selected">Wi-Fi printer not selected</string>
+    <string name="toast_no_printer_selected">No printer selected(no connection)</string>
+    <string name="toast_print_successful">Print successful! Expires at: %1$s</string>
+    <string name="toast_connection_error">Error: %1$s Can\'t connect</string>
+    <string name="toast_printing_error_hello">Error: %1$s!</string>
+    <string name="toast_no_connection_with_printer">No connection with printer</string>
+    <string name="toast_please_reboot_printer">Try checking the connection or rebooting the printer</string>
+    <string name="error_sending_commands_to_printer">Failed to send commands to printer.</string>
+    <string name="label_manufactured">Manufactured:</string>
+    <string name="label_expires">Expires:</string>
+    <string name="accessibility_service_description">Enhanced kiosk mode\\n     • Preventing users from exiting the application\\n     • Blocking access to system settings and app switching\\n     • Monitoring system UI interactions in real-time\\n     • Automatically returning to the kiosk app if unauthorized access is detected\\n\\n     ⚠️ This service is only active when kiosk mode is enabled and does not collect any personal data.</string>
+</resources>

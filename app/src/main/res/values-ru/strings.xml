@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_ip_address">IP Адрес</string>
+    <string name="hint_port">Порт</string>
+    <string name="button_test_connection">Проверить Соединение</string>
+    <string name="status_not_tested">Статус: Не Проверено</string>
+    <string name="status_enter_ip_port">Статус: Введите IP/Порт</string>
+    <string name="status_testing">Статус: Проверка…</string>
+    <string name="status_connection_successful">Статус: ✅ Подключение успешно!</string>
+    <string name="status_connection_failed">Статус: ❌ Ошибка подключения</string>
+    <string name="dialog_title_wifi_printer">Wi-Fi Принтер</string>
+    <string name="button_ok">ОК</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="toast_ip_port_empty">IP-адрес и порт не могут быть пустыми.</string>
+    <string name="toast_invalid_port">Неверный номер порта.</string>
+    <string name="toast_selected_wifi_printer">Выбрано: Wi-Fi принтер на %1$s:%2$d</string>
+    <string name="none_selected">Ничего не выбрано</string>
+    <string name="bluetooth_printer_permissions_missing">Bluetooth-принтер (%1$s) (Нет разрешений)</string>
+    <string name="unknown_bluetooth_printer">Неизвестный Bluetooth (%1$s)</string>
+    <string name="unknown_usb_printer">Неизвестный USB-принтер (%1$s)</string>
+    <string name="wifi_printer_name">Wi-Fi принтер (%1$s:%2$d)</string>
+    <string name="bluetooth_permissions_not_granted">Bluetooth: Разрешения не предоставлены</string>
+    <string name="toast_no_printers_found">Принтеры не найдены</string>
+    <string name="dialog_title_select_printer">Выберите принтер</string>
+    <string name="add_wifi_printer">Добавить Wi-Fi принтер…</string>
+    <string name="toast_permissions_missing">Не хватает некоторых разрешений, ошибка: %1$s</string>
+    <string name="toast_bluetooth_permissions_not_granted">Разрешения Bluetooth не предоставлены</string>
+    <string name="toast_duration_greater_than_zero">Выберите длительность больше 0</string>
+    <string name="toast_usb_permission_not_granted">Разрешение на USB не предоставлено. Пожалуйста, предоставьте разрешение и попробуйте снова.</string>
+    <string name="toast_bluetooth_printer_not_selected">Bluetooth-принтер не выбран</string>
+    <string name="toast_selected_bluetooth_printer_not_found">Выбранный Bluetooth-принтер не найден</string>
+    <string name="toast_usb_printer_not_selected">USB-принтер не выбран</string>
+    <string name="toast_usb_printer_not_found">USB-принтер не найден</string>
+    <string name="toast_wifi_printer_not_selected">Wi-Fi принтер не выбран</string>
+    <string name="toast_no_printer_selected">Принтер не выбран (нет подключения)</string>
+    <string name="toast_print_successful">Печать успешна! Истекает: %1$s</string>
+    <string name="toast_connection_error">Ошибка: %1$s Не удалось подключиться</string>
+    <string name="toast_please_reboot_printer">Проверьте подключение или перезапустите принтер кнопкой на тыльной стороне.</string>
+    <string name="toast_no_connection_with_printer">Нет соединения с принтером</string>
+    <string name="toast_printing_error_hello">Ошибка: %1$s HELLO!</string>
+    <string name="error_sending_commands_to_printer">Не удалось отправить команды на принтер.</string>
+    <string name="label_manufactured">Изготовлено:</string>
+    <string name="label_expires">Годен до:</string>
+    <string name="accessibility_service_description">Улучшенный режим киоска\n     • Предотвращение выхода из приложения\\n     • Блокировка доступа к системным настройкам и переключению приложений\\n     • Мониторинг взаимодействий с системным интерфейсом в реальном времени\\n     • Автоматический возврат к киоск-приложению при обнаружении несанкционированного доступа\\n\\n     ⚠️ Эта служба активна только при включённом режиме киоска и не собирает личные данные.</string>
+</resources>
